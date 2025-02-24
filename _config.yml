@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 site_theme               : "default"
-title                    : "Yongle Huang HomePage"
+title                    : "Yongle HuangHomePage"
 title_separator          : "-"
 name                     : &name "Yongle Huang"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Yongle Huang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Xi'an"
+  location         : "Xi’an, Shaanxi"
   employer         : "Chang'an University"
   uri              : # URL
   email            : "none@example.org" 
